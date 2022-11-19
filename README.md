@@ -39,9 +39,11 @@ Here are some ideas to get you started:
   <a href="www.linkedin.com/in/aaron-jrnetworksecurityengineer">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </div>
+
 <a href="https://github.com/USERNAME">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&theme=light&hide_langs_below=1" />
 </a>
+
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Views&color=blue&style=plastic" alt="digvijay173" />
  </p>
