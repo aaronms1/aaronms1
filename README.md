@@ -4,6 +4,7 @@
 </div>
 
 ### Hi there 👋
+⚡ Back-end developer with a passion for cyber security.
 
 💬 Ask me about: what I'm working on, as most of the projects are private.
 <p>
