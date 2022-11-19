@@ -13,7 +13,7 @@
     I preffer Element.im, @anomili:matrix.org 
   <p>
     <li>
-      {@link amsanon1@proton.me}
+      <a href="amsanon1@proton.me">
     </li>  
     <p>
     or tick the linkedin button bellow:
@@ -23,10 +23,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </div>
   <p>
-<p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=USERNAME&label=Views&color=blue&style=plastic" alt="digvijay173" />
- </p>
-  <a href="https://github.com/USERNAME">
+  <a href="https://github.com/aaronms1">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&theme=light&hide_langs_below=1" />
 </a>
   <p>
