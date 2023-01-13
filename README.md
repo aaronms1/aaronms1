@@ -2,9 +2,9 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/xTcnSWYZvafyhEACBO/giphy.gif" width="200"/>
 </div>
-
 ### Hi there 👋
-⚡ Back-end developer with a passion for cyber security.
+⚡ Back-end developer: https://www.credly.com/badges/988b58f6-5576-4c7c-b93b-c4d8dfd7dad3/public_url 
+with a passion for cyber security.
 
 💬 Ask me about: what I'm working on, as most of the projects are private.
 <p>
@@ -25,10 +25,7 @@
   <p>
     <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Views&color=blue&style=plastic" alt="digvijay173" />
- <p>
-   Backend-Development Certification:
-   https://www.credly.com/badges/988b58f6-5576-4c7c-b93b-c4d8dfd7dad3/public_url
-   
+ <p>   
     <a href="https://github.com/aaronms1">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaronms1&theme=light&hide_langs_below=1" />
 </a>
