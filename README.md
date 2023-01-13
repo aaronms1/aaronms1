@@ -27,11 +27,12 @@
 <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Views&color=blue&style=plastic" alt="digvijay173" />
       <p>
         <a href="https://www.credly.com/badges/988b58f6-5576-4c7c-b93b-c4d8dfd7dad3/public_url"
+           </a>
+        
  <p>
     <a href="https://github.com/aaronms1">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaronms1&theme=light&hide_langs_below=1" />
 </a>
-  </p>
 
 
 <!--
