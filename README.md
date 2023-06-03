@@ -22,8 +22,7 @@ Heeeyoo!!👋
     <p>
 or--->@protonmail <a herf="amsanon1@proton.me">...</a>
     <p>
-or--->tick the big ugly blue
-<div id="badges">
+or--->tick the big ugly blue <div id="badges">
   <a href="www.linkedin.com/in/aaron-jrnetworksecurityengineer">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </div>
