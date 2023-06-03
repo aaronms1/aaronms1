@@ -17,10 +17,10 @@ Heeeyoo!!👋
 👯 I’m looking to collaborate on:-> send me your 'pitch' and I'll get back to you.... if it's interesting.
   <p>
 📫 How to reach me --->@ matrix
-<a herf="@anomili:matrix.org">...</a>
+<a herf="https://matrix.to/#/!IQyaUMqBddATpbepUd:matrix.org?via=matrix.org">[this]</a>
 <p>
     <p>
-or--->@protonmail <a herf="amsanon1@proton.me">...</a>
+or--->@protonmail <a herf="amsanon1@proton.me">[that]</a>
     <p>
 or--->tick the big ugly blue <div id="badges">
   <a href="www.linkedin.com/in/aaron-jrnetworksecurityengineer">
@@ -35,7 +35,9 @@ or--->tick the big ugly blue <div id="badges">
 <!--
 **aaronms1/aaronms1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
 Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 -🌱 I’m currently learning Backend development
