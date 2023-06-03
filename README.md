@@ -20,7 +20,7 @@ https://www.credly.com/badges/988b58f6-5576-4c7c-b93b-c4d8dfd7dad3/public_url
   <p>
     Email: amsanon1@proton.me
     <p>
-    or tick the linkedin button bellow:
+    or tick the linkedin button bellow, and hit me there:
 <div id="badges">
   <a href="www.linkedin.com/in/aaron-jrnetworksecurityengineer">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
