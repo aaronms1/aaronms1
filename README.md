@@ -2,10 +2,12 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/xTcnSWYZvafyhEACBO/giphy.gif" width="200"/>
 </div>
-### Hi there 👋
-⚡ Back-end developer, with a passion for cyber security.
+### Heeeyoo!!👋
+⚡ Command Line Born Back-end developer, with a passion for cyber security.
 <p>
-  Backend-Dev Certification:\nhttps://www.credly.com/badges/988b58f6-5576-4c7c-b93b-c4d8dfd7dad3/public_url
+  Backend Cert:
+  <p>
+    nhttps://www.credly.com/badges/988b58f6-5576-4c7c-b93b-c4d8dfd7dad3/public_url
 <p>
 
 
