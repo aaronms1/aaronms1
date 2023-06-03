@@ -9,7 +9,7 @@
 <p>
 
 
-💬 Ask me about: what I'm working on, as most of the projects are private.
+💬 Ask me about:-> `ANTHING` within reason :).
 <p>
 👯 I’m looking to collaborate on `anything!!` \n I love new tech!!
   <p>
