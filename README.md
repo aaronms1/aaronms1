@@ -11,7 +11,7 @@
 
 💬 Ask me about: what I'm working on, as most of the projects are private.
 <p>
-👯 I’m looking to collaborate on anything backend and or security related
+👯 I’m looking to collaborate on `anything!!` \n I love new tech!!
   <p>
 📫 How to reach me:
     <p>
