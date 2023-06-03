@@ -5,9 +5,7 @@
 ### Heeeyoo!!👋
 ⚡ Command Line Born Back-end developer, with a passion for cyber security.
 <p>
-  Backend Cert:
-  <p>
-    nhttps://www.credly.com/badges/988b58f6-5576-4c7c-b93b-c4d8dfd7dad3/public_url
+  Backend Cert:-> https://www.credly.com/badges/988b58f6-5576-4c7c-b93b-c4d8dfd7dad3/public_url
 <p>
 
 
