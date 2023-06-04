@@ -28,7 +28,11 @@ with Parrot linux blood and obsession for cyber-security.
 </a>
   <p>
     <p align="left"> 
+      
+      
 <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Views&color=blue&style=plastic" alt="digvijay173" />
+      
+      
  <p>
 
 - 😄 Pronouns: ... dont care
