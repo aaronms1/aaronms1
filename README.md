@@ -30,6 +30,7 @@ with Parrot linux blood in my veins, and an obsession for cyber-security.
     <p align="left"> 
       
 ![aaronms1's github stats](https://github-readme-stats.vercel.app/api?username=aaronms1&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaronms1&layout=compact&theme=radical)
  <p>
 
