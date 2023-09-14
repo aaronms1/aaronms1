@@ -29,10 +29,8 @@ with Parrot linux blood in my veins, and an obsession for cyber-security.
   <p>
     <p align="left"> 
       
-      
-<img src="https://komarev.com/ghpvc/?username=USERNAME&label=Views&color=blue&style=plastic" alt="digvijay173" />
-      
-      
+![aaronms1's github stats](https://github-readme-stats.vercel.app/api?username=aaronms1&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaronms1&layout=compact&theme=radical)
  <p>
 
 - 😄 Pronouns: ... dont care
