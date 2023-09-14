@@ -27,13 +27,12 @@ with Parrot linux blood in my veins, and an obsession for cyber-security.
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
   <p>
-    <p align="left"> 
-      
-![aaronms1's github stats](https://github-readme-stats.vercel.app/api?username=aaronms1&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaronms1&layout=compact&theme=radical)
+    <p align="left">
+    <p>
+    ![aaronms1's github stats](https://github-readme-stats.vercel.app/api?username=aaronms1&show_icons=true&theme=radical)
+    <p>
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaronms1&layout=compact&theme=radical)
  <p>
-
 - 😄 Pronouns: ... dont care
 <!--
 
@@ -46,5 +45,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about: what I'm working on, as most of the projects are private.
 - 📫 How to reach me-->
   <a href="https://github.com/aaronms1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaronms1&theme=light&hide_langs_below=1" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaronms1&theme=light&hide_langs_below=1" />
 </a>
