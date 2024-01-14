@@ -6,7 +6,7 @@ Heeeyoo!!👋
 <p>
 <a>
   Backend-Engineer:-> 
-   <a href="https://www.credly.com/badges/988b58f6-5576-4c7c-b93b-c4d8dfd7dad3/public_url">[credly]</a>
+<!--    <a href="https://www.credly.com/badges/988b58f6-5576-4c7c-b93b-c4d8dfd7dad3/public_url">[credly]</a> -->
 with an obsession for cyber-security.
   <p>
 💬 Ask me about:-> `the meaning of life`
