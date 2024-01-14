@@ -7,7 +7,7 @@ Heeeyoo!!👋
 <a>
   Backend-Engineer:-> 
    <a href="https://www.credly.com/badges/988b58f6-5576-4c7c-b93b-c4d8dfd7dad3/public_url">[credly]</a>
-with Parrot linux in my veins, and an obsession for cyber-security.
+with an obsession for cyber-security.
   <p>
 💬 Ask me about:-> `the meaning of life`
 <p>
