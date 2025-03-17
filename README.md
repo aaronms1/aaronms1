@@ -25,8 +25,6 @@ with an passion for cyber-security.
 ![IntelliJ](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-blue?logo=intellij-idea)
 ![PyCharm](https://img.shields.io/badge/IDE-PyCharm-blue?logo=pycharm)
 
-## Description
-Your project description goes here.
 📫 How to reach me --->
 <p>
 <a href="https://matrix.to/#/@aaronms1:matrix.org">
