@@ -7,11 +7,10 @@ Heeeyoo!!👋
 <a>
   Backend-Engineer:-> 
 <!--    <a href="https://www.credly.com/badges/988b58f6-5576-4c7c-b93b-c4d8dfd7dad3/public_url">[credly]</a> -->
-with an obsession for cyber-security.
+with an passion for cyber-security.
   <p>
-💬 Ask me about:-> `the meaning of life`
 <p>
-👯 I’m looking to collaborate on:-> send me your 'pitch' and I'll get back to you.... if it's interesting.
+👯 I’m looking to collaborate on:-> anything.
   <p>
     <a href="https://github.com/aaronms1">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aaronms1&show_icons=true&theme=radical"  alt=""/>
@@ -21,6 +20,13 @@ with an obsession for cyber-security.
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaronms1&layout=compact&theme=radical"  alt=""/>
 </a>
   <p>
+
+![VSCode](https://img.shields.io/badge/IDE-VSCode-blue?logo=visual-studio-code)
+![IntelliJ](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-blue?logo=intellij-idea)
+![PyCharm](https://img.shields.io/badge/IDE-PyCharm-blue?logo=pycharm)
+
+## Description
+Your project description goes here.
 📫 How to reach me --->
 <p>
 <a href="https://matrix.to/#/@aaronms1:matrix.org">
